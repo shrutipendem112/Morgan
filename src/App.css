@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Dancing+Script:wght@600&family=Heebo:wght@200&family=Libre+Franklin&family=Manrope:wght@600&family=Martel+Sans&family=Montserrat+Alternates:wght@200&family=Philosopher:wght@700&family=Poppins:wght@300&family=Quicksand&family=Roboto:wght@300;400&family=Rubik:wght@300&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Martel Sans', sans-serif;
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+.titleSize{
+  font-weight: bold;
+}
+
+.buttonYellow{
+  border: 3px solid rgb(234, 166, 10);
+  border-radius: 4rem;
+  padding: 1rem 3rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.buttonYellow:hover{
+  color: #fff;
+  background-color: #212529;
+  text-decoration: underline;
+}
+.textColor{
+  color: #6c757d
+}
